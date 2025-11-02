@@ -36,7 +36,7 @@
                     </div>
                     <div class="info-item">
                         <label>通信协议</label>
-                        <span>Dbus</span>
+                        <span>串行通信</span>
                     </div>
                     <div class="info-item">
                         <label>电池电量</label>
