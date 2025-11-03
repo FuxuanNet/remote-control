@@ -163,7 +163,7 @@
                         </div>
                         <div class="spec-item">
                             <label>接口类型</label>
-                            <span>Dbus</span>
+                            <span>SPI</span>
                         </div>
                         <div class="spec-item">
                             <label>电源</label>
